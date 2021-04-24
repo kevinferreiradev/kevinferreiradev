@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi Pessoal 
 
+Sou **desenvolvedor front-end** em formação buscando uma oportunidade nessa área, Minha Stack hoje é o JavaScript e o ReactJS 
+Sou paraibano e moro em 📍 João Pessoa-PB, tenho vários projetos interessantes que estão nessa rede socais e outros em desenvolvimento.
+
+Vamos da uma olhada em meus repositórios ?  só não vale clonar ! rsrsrs
+
+# Minhas Redes Socais para contato ! 
+[![Twitter Badge](https://img.shields.io/badge/-@keviferreiradev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/keviferreiradev)](https://twitter.com/keviferreiradev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinferreiradev/)](https://www.linkedin.com/in/keviferreiradev/) 
+[![Gmail Badge](https://img.shields.io/badge/-ferreirakevin325@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreirakevin325@gmail.com)](mailto:ferreirakevin325@gmail.com)
 <!--
 **kevinferreiradev/kevinferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
