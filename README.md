@@ -1,6 +1,6 @@
 # Hi Pessoal 
 
-I am ** front-end developer ** in training looking for an opportunity in this area, My Stack today is JavaScript and ReactJS.
+I am **front-end developer** in training looking for an opportunity in this area, My Stack today is JavaScript and ReactJS.
 I am from Paraíba and I live in 📍 João Pessoa-PB, I have several interesting projects that are in this social network and others in development.
 Let's take a look at my repositories? it's just not worth cloning! Hahaha
 
