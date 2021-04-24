@@ -1,9 +1,10 @@
 # Hi Pessoal 
 
-Sou **desenvolvedor front-end** em formação buscando uma oportunidade nessa área, Minha Stack hoje é o JavaScript e o ReactJS 
-Sou paraibano e moro em 📍 João Pessoa-PB, tenho vários projetos interessantes que estão nessa rede socais e outros em desenvolvimento.
+I am ** front-end developer ** in training looking for an opportunity in this area, My Stack today is JavaScript and ReactJS
 
-Vamos da uma olhada em meus repositórios ?  só não vale clonar ! rsrsrs
+I am from Paraíba and I live in 📍 João Pessoa-PB, I have several interesting projects that are in this social network and others in development
+
+Let's take a look at my repositories? it's just not worth cloning! Hahaha
 
 # Minhas Redes Socais para contato ! 
 [![Twitter Badge](https://img.shields.io/badge/-@keviferreiradev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/keviferreiradev)](https://twitter.com/keviferreiradev) 
