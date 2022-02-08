@@ -31,6 +31,6 @@ Let's take a look at my repositories? it's just not worth cloning! Hahaha
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinferreiradev&show_icons=true)
 
-### and just a funny gif...😛
+### Eu todos os dias.. kkkk
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
