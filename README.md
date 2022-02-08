@@ -1,4 +1,13 @@
-# Hi Pessoal 
+<pre>
+----------------------------------------
+<span>Hi People, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
 I am **front-end developer** in training looking for an opportunity in this area, My Stack today is JavaScript and ReactJS.
 I am from Paraíba and I live in 📍 João Pessoa-PB, I have several interesting projects that are in this social network and others in development.
@@ -21,4 +30,7 @@ Let's take a look at my repositories? it's just not worth cloning! Hahaha
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinferreiradev&show_icons=true)
+
+### and just a funny gif...😛
+![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
