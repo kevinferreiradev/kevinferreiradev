@@ -18,7 +18,7 @@ I’m a Software Engineer. Currently I'm working at Indra Company. 🚀
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keviferreiradev)](https://www.linkedin.com/in/kevinferreiradev/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keviferreiradev/)](https://www.linkedin.com/in/kevinferreiradev/) 
 [![Gmail Badge](https://img.shields.io/badge/-ferreirakevin325@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreirakevin325@gmail.com)](mailto:ferreirakevin325@gmail.com)
 
 
