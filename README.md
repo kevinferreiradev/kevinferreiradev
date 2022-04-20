@@ -1,36 +1,24 @@
-<pre>
-----------------------------------------
-<span>Hi People, Hello World!!</span>
-----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
-</pre>
+### Hi, I'm Kevin Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am **front-end developer** in training looking for an opportunity in this area, My Stack today is JavaScript and ReactJS.
-I am from Paraíba and I live in 📍 João Pessoa-PB, I have several interesting projects that are in this social network and others in development.
-Let's take a look at my repositories? it's just not worth cloning! Hahaha
+I’m a Software Engineer. Currently I'm working at Indra Company. 🚀
 
-# My Social Networks for contact!
-[![Twitter Badge](https://img.shields.io/badge/-@keviferreiradev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/keviferreiradev)](https://twitter.com/keviferreiradev) 
-[![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinferreiradev/)](https://www.linkedin.com/in/keviferreiradev/) 
-[![Gmail Badge](https://img.shields.io/badge/-ferreirakevin325@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreirakevin325@gmail.com)](mailto:ferreirakevin325@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
 
-## 🚀 Minhas Skills
+#### My current tools   
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+🌎 Front-end Web with React, Angular
 
+📲 Front-end Mobile with React Native
 
+📡 Back-end with Node.js, Java
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinferreiradev&show_icons=true)
+🛠️ Typescript  
 
-### Eu todos os dias.. kkkk
-![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+🧰 And more...  
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/kevinferreiradev/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreirakevin325@gmail.com)](mailto:ferreirakevin325@gmail.com)
+
 
