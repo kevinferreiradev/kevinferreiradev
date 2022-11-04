@@ -10,7 +10,7 @@ I’m a Software Engineer. Currently I'm working at Indra Company. 🚀
 
 📲 Front-end Mobile with React Native
 
-📡 Back-end with Node.js, Java
+📡 Back-end with Node.js, Java, Nestjs
 
 🛠️ Typescript  
 
