@@ -6,11 +6,11 @@ I’m a Software Engineer. Currently I'm working at Indra Company. 🚀
 
 #### My current tools   
 
-🌎 Front-end Web with React, Angular
+🌎 Front-end Web with Nextjs, Angular
 
 📲 Front-end Mobile with React Native
 
-📡 Back-end with Node.js, Java, Nestjs
+📡 Back-end with Node.js, Java, Nestjs and Fastify
 
 🛠️ Typescript  
 
